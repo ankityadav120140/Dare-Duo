@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857919118886",
+    "project_id": "dare-duo",
+    "storage_bucket": "dare-duo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857919118886:android:b8f47368715ba578bf90e7",
+        "android_client_info": {
+          "package_name": "com.quickksolution.dareduo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857919118886-jt52psuhvup8kr41os77nh93fcj4pqnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickksolution.dareduo",
+            "certificate_hash": "e9edfa2bf72ad44a4edb304cbc90b33bd7d63dec"
+          }
+        },
+        {
+          "client_id": "857919118886-3v1fa3pvjbl0c0u07qabfou55lhfqlvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsR21bzbOwcbAawnPyC9XnQenEiPfPEu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857919118886-3v1fa3pvjbl0c0u07qabfou55lhfqlvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
